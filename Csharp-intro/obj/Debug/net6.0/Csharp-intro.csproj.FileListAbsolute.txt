@@ -1,0 +1,14 @@
+D:\VS\Csharp-intro\Csharp-intro\bin\Debug\net6.0\Csharp-intro.exe
+D:\VS\Csharp-intro\Csharp-intro\bin\Debug\net6.0\Csharp-intro.deps.json
+D:\VS\Csharp-intro\Csharp-intro\bin\Debug\net6.0\Csharp-intro.runtimeconfig.json
+D:\VS\Csharp-intro\Csharp-intro\bin\Debug\net6.0\Csharp-intro.dll
+D:\VS\Csharp-intro\Csharp-intro\bin\Debug\net6.0\Csharp-intro.pdb
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\Csharp-intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\Csharp-intro.AssemblyInfoInputs.cache
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\Csharp-intro.AssemblyInfo.cs
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\Csharp-intro.csproj.CoreCompileInputs.cache
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\Csharp-intro.dll
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\refint\Csharp-intro.dll
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\Csharp-intro.pdb
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\Csharp-intro.genruntimeconfig.cache
+D:\VS\Csharp-intro\Csharp-intro\obj\Debug\net6.0\ref\Csharp-intro.dll
